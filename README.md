@@ -1,5 +1,12 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil!!! 😄
 
+Meu nome é Eduardo Fernandes
+
+- Iniciei faz pouco tempo nesta área
+- Estarei utilizando esse espaço para estudos e compartilhamento dos meus projetos desenvolvidos 
+- Estou estudando na [ETEC de Guarulhos](https://www.etecguarulhos.com.br/#:~:text=Destinado%20a%20estudantes%20cursando%20a%20partir%20do%202%C2%BA%20ano%20do)
+
+![](https://media1.tenor.com/m/oM9t2cd32VoAAAAC/one-piece-luffy.gif)
 <!--
 **Eduard0617/Eduard0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
